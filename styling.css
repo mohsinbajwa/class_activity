@@ -1,0 +1,21 @@
+body
+{
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    margin-top: 120px;
+    cursor: zoom-in;
+
+    border-radius: 5%;
+    border-style: solid;
+    border-color: brown;
+    box-shadow:
+            inset 5px 5px 10px #000000,
+            inset -5px -5px 10px blue;
+
+}
+h1:hover{
+
+    color: navy;
+    text-decoration-line: underline overline;
+
+}
